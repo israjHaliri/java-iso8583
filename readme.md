@@ -2,7 +2,7 @@
     + maven 3
     + java8
 
-## Needed stacks
+## Technology stacks
     + maven 3
     + java8
     + JPOS
