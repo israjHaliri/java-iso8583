@@ -1,6 +1,11 @@
 ## Needed stacks
     + maven 3
     + java8
+
+## Needed stacks
+    + maven 3
+    + java8
+    + JPOS
     
 ## To get started follow this checklist:
     + mvn clean install && mvn exec:java -Dexec.mainClass="com.israj.haliri.App"
